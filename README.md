@@ -8,8 +8,8 @@
  
 </br>
 
-- 💻 I'm currently working for Full-stack Web Developer from Seoul
-- 🌱 I'm currently learning : javascript, typescript, css, node.js, vue.js
+- 💻 I'm currently working for Backend-Developer Web Developer from Seoul
+- 🌱 I'm currently learning : Java, Spring Boot, MariaDB
 
 </br>
 
@@ -28,8 +28,8 @@ Techs that I’ve used at least once
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 </br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> 

@@ -9,7 +9,7 @@
 </br>
 
 - 💻 I'm currently working for Backend-Developer Web Developer from Seoul
-- 🌱 I'm currently learning : Java, Spring Boot, MariaDB, Unit Test
+- 🌱 I'm currently learning : Java, Spring Boot, MySQL, Unit Test, CS
 
 </br>
 

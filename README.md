@@ -51,12 +51,18 @@
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joona95&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=joona95)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 </br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joona95)](https://solved.ac/joona95)
+
+</br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/joona95" width="1000" height="200"/>
+</a>
 
 </div>
 
